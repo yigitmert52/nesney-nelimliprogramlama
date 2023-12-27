@@ -1,0 +1,16 @@
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\bin\Debug\NesneProjeHastane.exe.config
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\bin\Debug\NesneProjeHastane.exe
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\bin\Debug\NesneProjeHastane.pdb
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.csproj.AssemblyReference.cache
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.FrmDoktorDetay.resources
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.FrmDoktorGrisi.resources
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.FrmGirisler.resources
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.FrmHastaDetay.resources
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.FrmHastaGiris.resources
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.FrmSekreterDetay.resources
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.FrmSekreterGiris.resources
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.Properties.Resources.resources
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.csproj.GenerateResource.cache
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.csproj.CoreCompileInputs.cache
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.exe
+C:\Users\YİĞİT MERT\Source\Repos\NesneProjeHastane\NesneProjeHastane\obj\Debug\NesneProjeHastane.pdb
